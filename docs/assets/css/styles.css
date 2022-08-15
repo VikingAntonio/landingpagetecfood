@@ -20,7 +20,7 @@ html {
   width: 100%;
   margin: auto;
   text-align: center;
-  background: url("/assets/img/fdfd.png?h=a60d8bd832accb4c568beca4f5e239d5");
+  background: url("./fdfd.png");
   height: 350px;
   background-position: center;
   background-repeat: no-repeat;
@@ -31,7 +31,7 @@ html {
   width: 100%;
   margin: auto;
   text-align: center;
-  background: url("/assets/img/fondoVideo.png?h=de46322ee0b6ff826fc4a9dd247c4f12");
+  background: url("./fondoVideo.png");
   height: 350px;
   background-position: center;
   background-size: cover;
